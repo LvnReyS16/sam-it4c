@@ -6,8 +6,6 @@ function App() {
 
   function handleButton(type) {
     setCount(type === 'increment' ? count + 1 : count - 1)
-
-    
   }
   
 
